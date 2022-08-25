@@ -1,3 +1,4 @@
+Покупая данный скрипт, вы не получите возврат.
 local Testing = false
 -- Cmds
 if table.find(getgenv().Alts,game.Players.LocalPlayer.UserId) then
